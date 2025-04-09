@@ -8,8 +8,7 @@ Projekt realizowany na studiach w ramach przedmiotu "Systemy przetwarzania w chm
 *Description*
 Project carried out during studies as part of the subject "Cloud Computing Systems". The aim of the project was to create a system that would allow the user to upload and download files using cloud computing.
 
-*Wykorzystane technologie*
-*Used technologies*
+*Wykorzystane technologie/ Used technologies*
 - AWS: Lambda, S3, Api Gateway, Amplify, Cognito
 - frontend: Vue 3
 - backend: Node.js
